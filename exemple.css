@@ -1,0 +1,21 @@
+.body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+header,footer,section,article{
+    background-color: white;
+    border: 1px grey solid;
+    margin: 5px ;
+    padding: 8px;
+
+}
+header,footer{
+    background-color: #444;
+    color: white;
+
+}
+section{
+    background-color: #ddd;
+}
+
